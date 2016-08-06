@@ -7,7 +7,7 @@ Krypto  can encrypt your data with advanced encryption techniques like AES-256 e
 
 #Contribution 
 
-We need your contribution for making this application better our suggestions box is open everyone can give new ideas or implement new thing with krypto happy encrypting :key:  :simple_smile: 
+We need your contribution for making this application better our suggestions box is open everyone can give new ideas or implement new thing with krypto > happy encrypting :key:  :smile: 
 
 ##Designer
 
