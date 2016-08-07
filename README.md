@@ -1,7 +1,7 @@
 # Krypto :lock:
 ###Encryption tool for encrypting data using AES-256
 
->In 1880, someone said, information is everything. Back then, people didn't care about the information but today we are living in digital era where information is literally everything. Many government agencies, hackers, and everyone else wants your information. If they get your information, they can destroy your life.
+>In 1880 it was said that information was everything. Back then people didn’t care about information, but today we are living in a digital era where information is literally everything. Many government agencies and hackers want your information. If they were able to get it, it could destroy your life
 
 Krypto can encrypt your data with advanced encryption techniques like AES-256 encryption with some other encryption techniques   
 
